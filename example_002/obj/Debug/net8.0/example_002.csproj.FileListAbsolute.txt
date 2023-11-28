@@ -1,0 +1,15 @@
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\bin\Debug\net8.0\example_002.exe
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\bin\Debug\net8.0\example_002.deps.json
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\bin\Debug\net8.0\example_002.runtimeconfig.json
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\bin\Debug\net8.0\example_002.dll
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\bin\Debug\net8.0\example_002.pdb
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\obj\Debug\net8.0\example_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\obj\Debug\net8.0\example_002.AssemblyInfoInputs.cache
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\obj\Debug\net8.0\example_002.AssemblyInfo.cs
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\obj\Debug\net8.0\example_002.csproj.CoreCompileInputs.cache
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\obj\Debug\net8.0\example_002.sourcelink.json
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\obj\Debug\net8.0\example_002.dll
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\obj\Debug\net8.0\refint\example_002.dll
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\obj\Debug\net8.0\example_002.pdb
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\obj\Debug\net8.0\example_002.genruntimeconfig.cache
+C:\Users\Денис Кадыров\Desktop\Лекции С#\example_002\obj\Debug\net8.0\ref\example_002.dll
