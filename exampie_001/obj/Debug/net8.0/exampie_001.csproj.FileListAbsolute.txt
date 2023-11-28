@@ -1,0 +1,14 @@
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\bin\Debug\net8.0\exampie_001.exe
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\bin\Debug\net8.0\exampie_001.deps.json
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\bin\Debug\net8.0\exampie_001.runtimeconfig.json
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\bin\Debug\net8.0\exampie_001.dll
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\bin\Debug\net8.0\exampie_001.pdb
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\obj\Debug\net8.0\exampie_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\obj\Debug\net8.0\exampie_001.AssemblyInfoInputs.cache
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\obj\Debug\net8.0\exampie_001.AssemblyInfo.cs
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\obj\Debug\net8.0\exampie_001.csproj.CoreCompileInputs.cache
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\obj\Debug\net8.0\exampie_001.dll
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\obj\Debug\net8.0\refint\exampie_001.dll
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\obj\Debug\net8.0\exampie_001.pdb
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\obj\Debug\net8.0\exampie_001.genruntimeconfig.cache
+C:\Users\Денис Кадыров\Desktop\Лекции С#\exampie_001\obj\Debug\net8.0\ref\exampie_001.dll
