@@ -1,0 +1,5 @@
+C:\Users\Денис Кадыров\Desktop\Лекции С#\obj\Debug\net8.0\Лекции С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис Кадыров\Desktop\Лекции С#\obj\Debug\net8.0\Лекции С#.AssemblyInfoInputs.cache
+C:\Users\Денис Кадыров\Desktop\Лекции С#\obj\Debug\net8.0\Лекции С#.AssemblyInfo.cs
+C:\Users\Денис Кадыров\Desktop\Лекции С#\obj\Debug\net8.0\Лекции С#.csproj.CoreCompileInputs.cache
+C:\Users\Денис Кадыров\Desktop\Лекции С#\obj\Debug\net8.0\Лекции С#.sourcelink.json
